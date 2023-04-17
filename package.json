@@ -67,7 +67,7 @@
     "react": ">=16.4.1",
     "react-native": ">=0.56.0",
     "replace-in-file": "^6.0.0",
-    "rimraf": "^3.0.0",
+    "rimraf": "^5.0.0",
     "ts-jest": "^24.3.0",
     "typescript": "^3.4.5"
   },
