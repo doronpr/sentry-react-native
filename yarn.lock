@@ -1253,6 +1253,11 @@
   resolved "https://registry.yarnpkg.com/@sentry/types/-/types-6.12.0.tgz#b7395688a79403c6df8d8bb8d81deb8222519853"
   integrity sha512-urtgLzE4EDMAYQHYdkgC0Ei9QvLajodK1ntg71bGn0Pm84QUpaqpPDfHRU+i6jLeteyC7kWwa5O5W1m/jrjGXA==
 
+"@sentry/types@7.49.0":
+  version "7.49.0"
+  resolved "https://registry.yarnpkg.com/@sentry/types/-/types-7.49.0.tgz#2c217091e13dc373682f5be2e9b5baed9d2ae695"
+  integrity sha512-9yXXh7iv76+O6h2ONUVx0wsL1auqJFWez62mTjWk4350SgMmWp/zUkBxnVXhmcYqscz/CepC+Loz9vITLXtgxg==
+
 "@sentry/typescript@^5.20.0":
   version "5.20.1"
   resolved "https://registry.yarnpkg.com/@sentry/typescript/-/typescript-5.20.1.tgz#84133b3b8152367c936dbd573afe9e7a80c5f442"
